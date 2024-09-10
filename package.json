@@ -2,9 +2,9 @@
   "name": "interview-tech",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
-    "build": "tsup",
+    "dev": "tsup",
     "format": "prettier --write 'src/**/*.{ts,js}'",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

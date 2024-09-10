@@ -7,7 +7,7 @@ export default defineConfig({
   clean: true,
   target: 'es2022',
   format: 'esm',
-  onSuccess: 'node ./dist/index.js',
+  onSuccess: 'node ./dist/index.mjs',
   platform: 'node'
 
 });
