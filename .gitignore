@@ -1,0 +1,6 @@
+dist/
+node_modules/
+.env
+.idea
+gcs-source-sa.json
+bq-destination-sa.json
